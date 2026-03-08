@@ -1,0 +1,36 @@
+{
+    "etudiants": [
+        {
+            "nom": "Essiddik",
+            "numero": "21001852",
+            "filiere": "D3SI"
+        },
+        {
+            "nom": "sana",
+            "numero": "21001853",
+            "filiere": "D3SI"
+        },
+        {
+            "nom": "TEST1",
+            "numero": "7575",
+            "filiere": "D3SI"
+        },
+        {
+            "nom": "e",
+            "numero": "22",
+            "filiere": "ee"
+        },
+        {
+            "nom": "eerr",
+            "numero": "72373",
+            "filiere": "tte1"
+        }
+    ],
+    "examens": [
+        {
+            "matiere": "Python",
+            "date": "07-03-2026",
+            "surveillant": "prof1"
+        }
+    ]
+}
