@@ -11,19 +11,19 @@
             "filiere": "D3SI"
         },
         {
-            "nom": "TEST1",
+            "nom": "hiba",
             "numero": "7575",
             "filiere": "D3SI"
         },
         {
-            "nom": "e",
+            "nom": "oumaima",
             "numero": "22",
-            "filiere": "ee"
+            "filiere": "Robotics"
         },
         {
-            "nom": "eerr",
+            "nom": "hassan",
             "numero": "72373",
-            "filiere": "tte1"
+            "filiere": "3D"
         }
     ],
     "examens": [
@@ -31,6 +31,16 @@
             "matiere": "Python",
             "date": "07-03-2026",
             "surveillant": "prof1"
+        },
+        {
+            "matiere": "UML",
+            "date": "07-03-2026",
+            "surveillant": "prof2"
+        },
+        {
+            "matiere": "Machine learning",
+            "date": "08-03-2026",
+            "surveillant": "prof3"
         }
     ]
 }
