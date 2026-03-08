@@ -2,27 +2,27 @@
     "etudiants": [
         {
             "nom": "Essiddik",
-            "numero": "21001852",
+            "numero": "0011",
             "filiere": "D3SI"
         },
         {
             "nom": "sana",
-            "numero": "21001853",
+            "numero": "0022",
             "filiere": "D3SI"
         },
         {
             "nom": "hiba",
-            "numero": "7575",
+            "numero": "0033",
             "filiere": "D3SI"
         },
         {
             "nom": "oumaima",
-            "numero": "22",
+            "numero": "0044",
             "filiere": "Robotics"
         },
         {
             "nom": "hassan",
-            "numero": "72373",
+            "numero": "0055",
             "filiere": "3D"
         }
     ],
